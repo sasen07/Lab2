@@ -1,6 +1,4 @@
 # Lab2
-## App screenshot
-### portrait
-![](./lab2ss1.jpg)
-### Landscape
-![](./lab2ss2.jpg)
+## Task2_app_screenshot
+![](./lab2_task2.png)
+
