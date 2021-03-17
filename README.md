@@ -1,4 +1,4 @@
 # Lab2
-## Task2_app_screenshot
-![](./lab2_task2.png)
+## Task3_app_screenshot
+![](./lab2_task3.png)
 
